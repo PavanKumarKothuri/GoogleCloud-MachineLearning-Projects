@@ -13,7 +13,8 @@ Welcome to **GoogleCloud-MachineLearning-Projects**! 🎯 This repository showca
 
 ## 📌 **Projects Overview**  
 
-🔹 **1️⃣ Deploying a Flask ML Model on Cloud Run**  
+🔹 [**1️⃣ Deploying a Flask ML Model on Cloud Run**](https://github.com/PavanKumarKothuri/GoogleCloud-flask-app)
+
 📜 *Deploy a simple machine learning model inside a Flask API using Cloud Run.*  
 
 ---
