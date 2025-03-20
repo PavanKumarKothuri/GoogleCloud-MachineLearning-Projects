@@ -14,8 +14,10 @@ Welcome to **GoogleCloud-MachineLearning-Projects**! 🎯 This repository showca
 ## 📌 **Projects Overview**  
 
 🔹 [**1️⃣ Deploying a Flask ML Model on Cloud Run**](https://github.com/PavanKumarKothuri/GoogleCloud-flask-app)
-
 📜 *Deploy a simple machine learning model inside a Flask API using Cloud Run.*  
+
+🔹 [**2️⃣ Building a GCP Data Pipeline for ML - ETL on BigQuery**](https://github.com/PavanKumarKothuri/GoogleCloud-ML-ETL-BigQuery)  
+📜 *Create a streamlined ETL pipeline using Python to extract, clean, and load data into BigQuery for ML analysis.* 🚀
 
 ---
 
@@ -48,9 +50,9 @@ cd GoogleCloud-MachineLearning-Projects
 
 ## **🏆📫 Author**
 
-- Built with ❤️ by PavanKumar Kothuri - Cloud Computing and Machine learning are fun!
-- 🌐 [LinkedIn | https://www.linkedin.com/in/iamkpk/](https://www.linkedin.com/in/iamkpk/)
-- 💻 [GitHub | https://github.com/PavanKumarKothuri](https://github.com/PavanKumarKothuri)  
-- ✉️ [Email | pavankumarkothuri9@gmail.com](mailto:pavankumarkothuri9@gmail.com)
+Built with ❤️ by **PavanKumar Kothuri** – 🚀 **Coding is Fun!** 😃  
+- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/Pavankumarkothuri/)
+- 💻 [GitHub Profile](https://github.com/PavanKumarKothuri)  
+- ✉️ [Email: pavankumarkothuri9@gmail.com](mailto:pavankumarkothuri9@gmail.com)
 
-Feel free to connect with me for further discussions or contributions. 🌟 **Happy Coding!** 🚀😃☁️  
+Feel free to connect with me for further discussions or contributions. 🌟 **Happy Coding!** 🚀
